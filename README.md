@@ -61,7 +61,7 @@ The **Overview** page provides a high-level view of spare-parts withdrawals, rec
 - Logbook Completeness Trend
 - Item Withdrawal Summary
 
-![Spare Parts Withdrawals Dashboard Overview](Refresco%20Stock%20Level%20%28Overview%20page%29.pbix%281%29.png)
+![Spare Parts Withdrawals Dashboard Overview](Refresco%20Stock%20Level%20%28Overview%20page%29.pbix.png)
 
 ### Item Withdrawal Detail Page
 
@@ -77,7 +77,7 @@ The **Item Withdrawal Detail** page allows users to investigate an individual ma
 - Log Completeness for This Item
 - Withdrawal History
 
-![Item Withdrawal Detail](Refresco%20Stock%20Level%20%28Item%20Details%20page%29.pbix%281%29.png)
+![Item Withdrawal Detail](Refresco%20Stock%20Level%20%28Item%20Details%20page%29.pbix.png)
 
 ### Interactive Filters
 
