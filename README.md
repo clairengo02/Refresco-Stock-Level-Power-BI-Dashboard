@@ -4,7 +4,7 @@
 
 An interactive **Microsoft Power BI dashboard** developed to analyse spare-parts withdrawals, logbook completeness, and data-quality issues across multiple storerooms.
 
-The dashboard includes an **item-level drill-through page** that enables maintenance and operations managers, the store coordinator, and planners to investigate material usage, withdrawal history, work-order records, component-recording status, and supporting notes.
+The dashboard includes an **item-level drill-through page** that enables maintenance and operations managers, the store coordinator, and planner to investigate material usage, withdrawal history, work-order records, component-recording status, and supporting notes.
 
 I independently developed this dashboard as an internal company project, demonstrating an end-to-end analytics workflow involving **Power Query, relational data modelling, DAX, interactive visualisations, KPI development, and evidence-based recommendations**.
 
