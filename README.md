@@ -104,8 +104,7 @@ The **Top & Bottom – Logbook Compliance** page compares staff members based on
 - Overall Logbook Compliance %
 - Staff Initials
 - Compliance Ranking based on TECO Recorded %, WO Recorded %, and Component Recorded %
-
-
+  
 
 ### Interactive Filters
 
