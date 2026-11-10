@@ -79,6 +79,20 @@ The **Item Withdrawal Detail** page allows users to investigate an individual ma
 
 ![Item Withdrawal Detail](Refresco%20Stock%20Level%20%28Item%20Details%20page%29.pbix.png)
 
+### Tooltip Page
+
+The **Logbook Completeness – Calculation** tooltip explains how logbook completeness is measured, including the number and percentage of complete entries and the criteria used to assess data completeness.  It is integrated into the Logbook Completeness Trend line chart, allowing users to view the calculation details by hovering over the chart.
+
+**Key metrics and information:**
+
+- Complete Entries
+- Complete Entry %
+- Complete Entry Criteria (Component = "YES", with Work Order, Material Number, and Location Bin recorded)
+- Completeness Calculation: (Complete Entries ÷ Total Entries) × 100
+- Data Quality Note: Blank or whitespace-only fields are considered missing. This measures completeness, not accuracy.
+
+![Logbook Completeness Tooltip](Refresco%20Stock%20Level%20%28Tooltip%201%20page%29.pbix.png)
+
 ### Interactive Filters
 
 The dashboard can be explored using:
