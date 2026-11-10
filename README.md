@@ -91,7 +91,21 @@ The **Logbook Completeness – Calculation** tooltip explains how logbook comple
 - Completeness Calculation: (Complete Entries ÷ Total Entries) × 100
 - Data Quality Note: Blank or whitespace-only fields are considered missing. This measures completeness, not accuracy.
 
-![Logbook Completeness Tooltip](Refresco%20Stock%20Level%20%28Tooltip%201%20page%29.pbix.png)
+![Top & Bottom – Logbook Compliance](Refresco%20Stock%20Level%20%28Top%20%26%20Bottom%20page%29.pbix.png)
+
+### Top & Bottom – Logbook Compliance
+
+The **Top & Bottom – Logbook Compliance** page compares staff members based on their overall logbook compliance scores, highlighting those with the highest and lowest completion rates. This helps identify strong recording practices and areas requiring improvement in logbook documentation.
+
+**Key metrics and visuals:**
+
+- Top Performers – Logbook Compliance
+- Bottom Performers – Logbook Compliance
+- Overall Logbook Compliance %
+- Staff Initials
+- Compliance Ranking based on TECO Recorded %, WO Recorded %, and Component Recorded %
+
+
 
 ### Interactive Filters
 
